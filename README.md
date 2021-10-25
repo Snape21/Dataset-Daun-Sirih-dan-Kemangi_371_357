@@ -1,34 +1,24 @@
 # DATASET
-## Definisi
+## Progres dalam minggu ke – 1 
+•	Kami telah membuat sebuah kelompok yang beranggotakan 2 orang yaitu  
+Dhana Agustya Putra Sasongko (201910370311357) dan Aria Maulana (201910370311371)
 
-Dataset adalah sebuah kumpulan data yang bersifat sebagai himpunan data yang berasal dari informasi-informasi pada masa sebelumnya dan siap untuk dikelola menjadi sebuah informasi baru dengan menggunakan teknik pembelajaran superised learning.
+•	Kami telah mengambil beberapa foto dari daun sirih dan daun kemangi terkait bahan yang akan digunakan dalam melaksanakan tugas besar pada semester 5 ini.
+## Deskripsi
+Project ini merupakan sebuah web pendeteksi gambar, yang di bangun menerapkan sistem Artificial intelligence. Dimana Sistem tersebut di buat menggunakan bahasa pemrograman python. Adapun beberapa tahapan dalam membangun sistem tersebut mulai dari mencari dataset sebagai objek sampai menentukan algoritma yang sesuai yang akan diterapkan pada program.
 
-Dataset terdiri dari 5 kategori dan terbagi menjadi dua bagian data,dua jenis dataset, tujuan dataset.
+Untuk dataset itu sendiri berupa gambar dedaunan, kali ini kita akan menggunakan 2 label untuk dataset, yakni daun sirih dan daun kemangi. Dibutuhkan 100 foto daun yang terdiri dari 50 foto daun sirih dan 50 foto daun kemangi, adapun kriteria dalam pembuatan dataset yaitu:
 
-Pembahasan pertama adalah mengenai dua jenis dataset yaitu Private dan Public.
+•	Image daun diambil menggunakan kamera smartphone
 
-Private Dataset, adalah data set yang dapat diambil dari sebuah organisasi yang akan kita lakukan sebagai objek penelitian misalnya seperti data bank, rumah sakit, universitas, perusahaan dan lain sebagainya.
+•	Background putih
 
-Public Dataset, adalag data set yang bisa kita ambil dari repository publik yang disepakati oleh ulama-ulama peneliti data mining, misalnya seperti UCI Repository (http://www.ics.uci.edu/~mlearn/MLRepository.html), ACM KDD (http://www.sigkdd.org/kddcup/).
+•	Format .jpg
 
-Pembahasan Kedua adalah mengenai tujuan data set. Dewasa ini penelitian yang dilakukan pada bidang illmu data mining adalah menguji metode yang dikembangkan oleh peneliti dengan public dataset. Sehingga penelitian tersebut dapat bersifat comparable, repeatable, dan veriviable.
+•	Dimensi 1600 x 1200 pixel
 
-Pembahasan Ketiga adalah mengenai dua bagian data yaitu atribut dan label/kelas/tupel.
-Contoh Tabel Data
+•	Jumlah perlabel 50 gambar
+## Anggota
+•	Dhana Agustya Putra Sasongko (201910370311357)
 
- Jenis Kelamin   	Asal Daerah 	Cuti 	Asal SMA  Nikah	 Program	Studi 
- Laki-Laki	      Dalam Kab	    Tidak 	 SMK    Belum Reguler 	Terlambat 
- Laki-Laki	      Dalam Kab	    Tidak	   MA	    Sudah	 Reguler 	Terlambat
- Laki-Laki	      Dalam Prov	   Ya	     MA     Belum	 Reguler 	Tepat
- Perempuan	      Luar Pulau	  Tidak	   SMA	  Belum	 Karyawan	Terlambat
- Laki-Laki	      Dalam Kab	     Ya	     SMA	  Belum	 Reguler 	Terlambat
- Laki-Laki	      Dalam Kab	    Tidak	   SMA	  Belum	 Reguler 	Tepat
- Laki-Laki	      Dalam Prov	  Tidak	   SMA	  Belum	 Reguler 	Tepat
- Perempuan	      Luar Pulau	  Tidak	   SMA	  Belum	 Reguler 	Tepat
- Perempuan	      Dalam Prov	  Tidak	   SMK	  Belum	 Karyawan	Tepat
- Perempuan	      Dalam Prov	  Tidak	   SMK 	  Belum	 Reguler 	Tepat
-
-Tabel diatas merupakan sedikit contoh gambaran dari sebuah dataset yang memiliki dua bagian dari atribut dan label.
-
-
-
+•	Aria Maulana (201910370311371)
